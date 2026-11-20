@@ -1,0 +1,39 @@
+MT4 M1 export report
+====================
+source            : C:\Users\yr471\OneDrive\Desktop\mt4-xasu-work\data\xauusd-tick-2026-10-29-2026-11-20.csv
+symbol            : XAUUSD
+price side        : bid
+server UTC offset : +2.0 h
+ticks parsed      : 8,630,538
+rows skipped      : 0
+out-of-order      : 0
+M1 bars           : 22,020
+first bar (server): 2026-10-29 02:00
+last bar (server) : 2026-11-20 01:59
+price range       : 3590.26 .. 4148.58
+hst size expected : 969,028 bytes
+hst size actual   : 969,028 bytes
+hst size OK       : YES
+
+bars per day (server time):
+  2026-10-29: 1,260
+  2026-10-30: 1,380
+  2026-11-02: 1,380
+  2026-11-03: 1,380
+  2026-11-04: 1,380
+  2026-11-05: 1,380
+  2026-11-06: 1,380
+  2026-11-09: 1,380
+  2026-11-10: 1,380
+  2026-11-11: 1,380
+  2026-11-12: 1,380
+  2026-11-13: 1,380
+  2026-11-16: 1,380
+  2026-11-17: 1,380
+  2026-11-18: 1,380
+  2026-11-19: 1,380
+  2026-11-20: 60
+
+Files:
+  C:\Users\yr471\OneDrive\Desktop\mt4-xasu-work\mt4_export_2dp\XAUUSD1.hst  (0.92 MB)
+  C:\Users\yr471\OneDrive\Desktop\mt4-xasu-work\mt4_export_2dp\XAUUSD_M1.csv  (1.11 MB)
