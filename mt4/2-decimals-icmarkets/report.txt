@@ -1,22 +1,71 @@
 MT4 M1 export report
 ====================
-source            : C:\Users\yr471\OneDrive\Desktop\mt4-xasu-work\data\xauusd-tick-2026-10-29-2026-11-20.csv
+source            : C:\Users\yr471\OneDrive\Desktop\mt4-xasu-work\data_3m\xauusd-tick-2026-08-21-2026-11-21.csv
 symbol            : XAUUSD
 price side        : bid
-server UTC offset : +2.0 h
-ticks parsed      : 8,630,538
+server time       : IC Markets (GMT+3 summer / GMT+2 winter)
+ticks parsed      : 23,532,983
 rows skipped      : 0
 out-of-order      : 0
-M1 bars           : 22,020
-first bar (server): 2026-10-29 02:00
-last bar (server) : 2026-11-20 01:59
-price range       : 3590.26 .. 4148.58
-hst size expected : 969,028 bytes
-hst size actual   : 969,028 bytes
+M1 bars           : 90,808
+first bar (server): 2026-08-21 03:00
+last bar (server) : 2026-11-20 23:59
+price range       : 3502.69 .. 4696.64
+hst size expected : 3,995,700 bytes
+hst size actual   : 3,995,700 bytes
 hst size OK       : YES
 
 bars per day (server time):
-  2026-10-29: 1,260
+  2026-08-21: 1,260
+  2026-08-24: 1,380
+  2026-08-25: 1,380
+  2026-08-26: 1,380
+  2026-08-27: 1,380
+  2026-08-28: 1,380
+  2026-08-31: 1,380
+  2026-09-01: 1,380
+  2026-09-02: 1,380
+  2026-09-03: 1,380
+  2026-09-04: 1,380
+  2026-09-07: 1,229
+  2026-09-08: 1,380
+  2026-09-09: 1,380
+  2026-09-10: 1,380
+  2026-09-11: 1,380
+  2026-09-14: 1,380
+  2026-09-15: 1,380
+  2026-09-16: 1,380
+  2026-09-17: 1,380
+  2026-09-18: 1,380
+  2026-09-21: 1,380
+  2026-09-22: 1,380
+  2026-09-23: 1,380
+  2026-09-24: 1,380
+  2026-09-25: 1,380
+  2026-09-28: 1,380
+  2026-09-29: 1,380
+  2026-09-30: 1,380
+  2026-10-01: 1,379
+  2026-10-02: 1,380
+  2026-10-05: 1,380
+  2026-10-06: 1,380
+  2026-10-07: 1,380
+  2026-10-08: 1,380
+  2026-10-09: 1,380
+  2026-10-12: 1,380
+  2026-10-13: 1,380
+  2026-10-14: 1,380
+  2026-10-15: 1,380
+  2026-10-16: 1,380
+  2026-10-19: 1,380
+  2026-10-20: 1,380
+  2026-10-21: 1,380
+  2026-10-22: 1,380
+  2026-10-23: 1,380
+  2026-10-26: 1,380
+  2026-10-27: 1,380
+  2026-10-28: 1,380
+  2026-10-29: 1,380
   2026-10-30: 1,380
   2026-11-02: 1,380
   2026-11-03: 1,380
@@ -32,8 +81,8 @@ bars per day (server time):
   2026-11-17: 1,380
   2026-11-18: 1,380
   2026-11-19: 1,380
-  2026-11-20: 60
+  2026-11-20: 1,380
 
 Files:
-  C:\Users\yr471\OneDrive\Desktop\mt4-xasu-work\mt4_export_2dp\XAUUSD1.hst  (0.92 MB)
-  C:\Users\yr471\OneDrive\Desktop\mt4-xasu-work\mt4_export_2dp\XAUUSD_M1.csv  (1.11 MB)
+  C:\Users\yr471\OneDrive\Desktop\mt4-xasu-work\mt4_export_3m_2dp\XAUUSD1.hst  (3.81 MB)
+  C:\Users\yr471\OneDrive\Desktop\mt4-xasu-work\mt4_export_3m_2dp\XAUUSD_M1.csv  (4.58 MB)
